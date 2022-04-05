@@ -22,5 +22,5 @@ Ce logiciel a pour but d'avoir une interface simple d'utilisation pour lancer un
 	la partie graphique est fait avec [inserer apres decision]
 
 
-###Pour le futur:
+### Pour le futur:
   Le logiciel sera doter dans le futur, d'un catalogue en ligne qui permettra a l'utilisateur de telecharger un jeu au quel il souhaite jouer si il ne la pas encore dans sa collection.
