@@ -1,8 +1,8 @@
 # Arcapy
-Arcadepy is a embed for games aracade. The objectif of the project is a create a interface for symplify differents manipulations of user.
+
 
 ### Presentation:
-Ce logiciel a pour but d'avoir une interface simple d'utilisation pour lancer un jeu d'arcade de n'importe quel console compatible (voir liste des consoles compatible, cette liste est non exhaustive et peut etre augmenter dans le temps).
+Arcapy est un embed pour l'univers d'arcade, son objectif est de simplifier la vie d'un utilisateur en organisant, ces differentes roms presentes et en lui proposant une belle interface. 
 
 ### Fonctionnement:
 
